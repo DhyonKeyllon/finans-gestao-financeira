@@ -29,7 +29,7 @@ Esses foram os recursos usados para o desenvolvimento:
 
 ### Objetivo
 
-Objetivo do site é mostrar um template de um site de gestão financeira
+Objetivo do site é mostrar um template de um site de gestão financeira para fins acadêmicos.
 
 ## License
 
