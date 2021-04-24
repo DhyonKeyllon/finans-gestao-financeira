@@ -13,7 +13,7 @@
 </p>
 
 ## Sobre o projeto
-### Tela de consulta
+### Screenshot
 
 <img src="/Finans/img/tela-inicial-finans.PNG" ></img>
 
